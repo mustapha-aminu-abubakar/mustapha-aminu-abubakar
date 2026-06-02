@@ -67,10 +67,9 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Chart%20Increasing.png" alt="Stats" width="30" height="30" /> GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mustapha-aminu-abubakar&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mustapha-aminu-abubakar&theme=github-dark-blue&hide_border=true" />
-  <br/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustapha-aminu-abubakar&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+  <img src="https://img.shields.io/github/followers/mustapha-aminu-abubakar?style=for-the-badge&logo=github&color=181717&labelColor=181717" />
+  <img src="https://img.shields.io/github/stars/mustapha-aminu-abubakar?style=for-the-badge&logo=github&color=181717&labelColor=181717" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmustapha-aminu-abubakar&query=%24.public_repos&style=for-the-badge&logo=github&label=repos&color=181717&labelColor=181717" />
 </div>
 
 <br/>
@@ -92,42 +91,42 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🔒 flowgate</h3>
-      <p align="center">
-        <a href="https://github.com/mustapha-aminu-abubakar/flowgate" title="Code">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mustapha-aminu-abubakar&repo=flowgate&theme=github_dark&hide_border=true" />
-        </a>
-      </p>
+      <h3 align="center">🔒 <a href="https://github.com/mustapha-aminu-abubakar/flowgate">flowgate</a></h3>
       <p align="center">Usage-based API monetization gateway in Go. Reverse proxy + Stellar settlement + PostgreSQL ledger + Next.js dashboard.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Stellar-7D00FF?logo=stellar&logoColor=white" />
+      </p>
     </td>
     <td width="50%">
-      <h3 align="center">🗳️ eVoting Blockchain</h3>
-      <p align="center">
-        <a href="https://github.com/mustapha-aminu-abubakar/eVoting-blockchain" title="Code">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mustapha-aminu-abubakar&repo=eVoting-blockchain&theme=github_dark&hide_border=true" />
-        </a>
-      </p>
+      <h3 align="center">🗳️ <a href="https://github.com/mustapha-aminu-abubakar/eVoting-blockchain">eVoting Blockchain</a></h3>
       <p align="center">Web e-Voting system on Ethereum (Sepolia). Flask + Solidity + MetaMask + Infura.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
+        <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white" />
+        <img src="https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white" />
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🐔 Chicken Disease Detection</h3>
-      <p align="center">
-        <a href="https://github.com/mustapha-aminu-abubakar/classRepProject2" title="Code">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mustapha-aminu-abubakar&repo=classRepProject2&theme=github_dark&hide_border=true" />
-        </a>
-      </p>
+      <h3 align="center">🐔 <a href="https://github.com/mustapha-aminu-abubakar/classRepProject2">Chicken Disease Detection</a></h3>
       <p align="center">Chicken disease classification with PyTorch (EfficientNet-B0). Flask web app with image upload and inference.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" />
+      </p>
     </td>
     <td width="50%">
-      <h3 align="center">📊 Nasdaq100 Analysis</h3>
-      <p align="center">
-        <a href="https://github.com/mustapha-aminu-abubakar/nasdaq100_index_companies_financial_analysis" title="Code">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mustapha-aminu-abubakar&repo=nasdaq100_index_companies_financial_analysis&theme=github_dark&hide_border=true" />
-        </a>
-      </p>
+      <h3 align="center">📊 <a href="https://github.com/mustapha-aminu-abubakar/nasdaq100_index_companies_financial_analysis">Nasdaq100 Analysis</a></h3>
       <p align="center">Financial analysis of 101 Nasdaq100 companies (2020–2024). Jupyter + Pandas + web scraping.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+      </p>
     </td>
   </tr>
 </table>
