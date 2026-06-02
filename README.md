@@ -8,7 +8,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Technologist" width="30" height="30" /> About Me
+## 👨‍💻 About Me
 
 **Computer Engineering** graduate from Ahmadu Bello University, Zaria. I build backend systems, data pipelines, and blockchain applications — from Go payment gateways to Ethereum voting platforms.
 
@@ -20,7 +20,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" height="30" /> Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -64,7 +64,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Chart%20Increasing.png" alt="Stats" width="30" height="30" /> GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://img.shields.io/github/followers/mustapha-aminu-abubakar?style=for-the-badge&logo=github&color=181717&labelColor=181717" />
@@ -86,7 +86,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="Projects" width="30" height="30" /> Featured Projects
+## 📖 Featured Projects
 
 <table>
   <tr>
@@ -133,7 +133,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Inbox%20Tray.png" alt="Connect" width="30" height="30" /> Let's Connect
+## 📬 Let's Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mustapha-aminu-a2a685229/">
