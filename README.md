@@ -80,9 +80,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mustapha-aminu-abubakar&theme=onedark&no-frame=true&no-bg=true&row=2&column=4&margin-w=10&margin-h=10" width="95%" />
-</div>
 
 ---
 
